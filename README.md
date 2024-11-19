@@ -24,6 +24,8 @@ The database schema is designed to accommodate the diverse needs of a mortgage l
 - <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/RMG_OLTP_Database_sql%20data%20source.sql">oltp_database
 - <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/RMG_OLAP_Database.sql">olap_database
 - <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/RMG_ODS_Database.sql">ods_database
-## power bi dashboard
-
+## power bi file
+- <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/mortgage%20loan%20power%20bi%20dashboard.pbix">BI_file
+## BI dashboard screenshot
+- <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/Screenshot%20BI%20dashboard(618).png">dashboard_screenshot
 
