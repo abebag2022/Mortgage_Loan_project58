@@ -21,8 +21,9 @@ The database schema is designed to accommodate the diverse needs of a mortgage l
 - Pie charts to visualize the distribution of loan amount over the year
 - Area chart to visualize geographic distribution of loans and properties
 ## SQL database 
-- 
-- 
+- <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/RMG_OLTP_Database_sql%20data%20source.sql">oltp_database
+- <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/RMG_OLAP_Database.sql">olap_database
+- <a href = "https://github.com/abebag2022/Mortgage_Loan_project58/blob/main/RMG_ODS_Database.sql">ods_database
 ## power bi dashboard
 
 
