@@ -20,7 +20,9 @@ The database schema is designed to accommodate the diverse needs of a mortgage l
 - Bar charts to compare performance across different segments (e.g., loan to date, property types)
 - Pie charts to visualize the distribution of loan amount over the year
 - Area chart to visualize geographic distribution of loans and properties
-## Sql query
+## SQL database 
+- 
+- 
 ## power bi dashboard
 
 
