@@ -13,11 +13,14 @@ The database schema is designed to accommodate the diverse needs of a mortgage l
 - Average loan amount
 - Default rate
 - Customer acquisition cost
-- Loan approval rate
+- Loan approval rate-
 - Portfolio turnover rate
-## Visualizations:
+## Visualizations using power BI:
 - Line charts to track trends over time (e.g., loan amount, purpose of loan)
 - Bar charts to compare performance across different segments (e.g., loan to date, property types)
 - Pie charts to visualize the distribution of loan amount over the year
-- Maps to visualize geographic distribution of loans and properties
+- Area chart to visualize geographic distribution of loans and properties
+## Sql query
+## power bi dashboard
+
 
